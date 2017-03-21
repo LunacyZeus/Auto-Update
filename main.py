@@ -33,6 +33,7 @@ RemoteFiles = {"1.txt":"c8ca3f2054e66acf6151b678a2db39d3",'/main.py': 'c8ca3f205
 RemoteFolders = ['/old1']#远程文件夹数据
 
 
+
 LocalFiles = {}#本地文件数据
 IgnoreFiles = ["/Taoni/settings.py",]#忽略更新文件名列表
 
